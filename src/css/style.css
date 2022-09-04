@@ -1,0 +1,72 @@
+body {
+    background-color: #0063af;
+    transition: 1s;
+}
+
+header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+div {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+}
+
+div .titulo {
+    color: #fff;
+    display: block;
+    margin: 0 auto;
+    font-size: 40px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+}
+
+div h2 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 15px;
+    color: #fff;
+    font-weight: 500;
+}
+
+main {
+    margin-top: 40px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 30px;
+}
+
+main button {
+    background-color: #fff;
+    color: #0063af;
+    border-radius: 10px;
+    font-size: 30px;
+    width: 450px; 
+    height: 60px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.button-special {
+    background-color: #edb816;
+}
+
+button:hover {
+    width: 500px; 
+    height: 60px; 
+    cursor: pointer;
+}
+
+footer p {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 20px;
+    font-size: 40px;
+    font-family: 'Montserrat', sans-serif;
+    color: #fff;
+    font-weight: 500;
+}
