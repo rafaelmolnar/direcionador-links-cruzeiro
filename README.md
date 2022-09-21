@@ -2,7 +2,7 @@
 
 ## Descrição do projeto:
 
-<p align="center">Projeto criado para prática e estudo nas tecnologias utilizadas, visando criar um diretório de links com a temática do clube de futebol brasileiro Cruzeiro Esporte Clube.</p>
+<p align="center">Projeto criado para prática e estudo nas tecnologias utilizadas, visando criar um diretório de links com a temática do clube de futebol Cruzeiro Esporte Clube.</p>
 
 ### 🚧 Em construção...  🚧 
 
@@ -11,7 +11,7 @@
 - [x] Landing Page
 - [ ] Tema ligth da página em cor branca
 - [ ] Botão para mudança de tema
-- [ ] Responsividade
+- [x] Responsividade
 
 #### 🛠 Tecnologias
 
@@ -31,5 +31,5 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 Feito com 💙 por Rafael Molnar 👋🏽 Entre em contato!
 
-[![Linkedin Badge](https://img.shields.io/badge/-Thiago-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-molnar-rocha/)](https://www.linkedin.com/in/rafael-molnar-rocha-856002247/) 
+[![Linkedin Badge](https://img.shields.io/badge/-Rafael-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-molnar-rocha/)](https://www.linkedin.com/in/rafael-molnar-rocha/) 
 [![Gmail Badge](https://img.shields.io/badge/-rafaelmolnar.r@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rafaelmolnar.r@gmail.com)](mailto:rafaelmolnar.r@gmail.com)
